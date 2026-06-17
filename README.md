@@ -4,7 +4,7 @@
 
 | Date | Day | Topic | Notes |
 |------|-----|-------|------|
-| June 17, 2026 | Wednesday | Day 1 - Introduction to Salesforce | [ Day-1](https://gtlk.link/Salesforce-Day-1) || June 18, 2026 | Thursday | | |
+| June 17, 2026 | Wednesday | Day 1 - Introduction to Salesforce | [ Day-1](https://gdrive.openinapp.co/wwtsg) || June 18, 2026 | Thursday | | |
 | June 19, 2026 | Friday | | |
 | June 20, 2026 | Saturday | | |
 | June 21, 2026 | Sunday | | |
