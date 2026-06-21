@@ -7,7 +7,7 @@
 | June 17, 2026 | Wednesday | Day 1 - Introduction to Salesforce | [ Day-1](https://gdrive.openinapp.co/wwtsg) |
 | June 18, 2026 | Thursday | Day 2 - Fields and Relationships | [Day-2](https://gdrive.openinapp.co/9wea6) |
 | June 19, 2026 | Friday | Day 3 - Validation Rules | [Day-3](https://gdrive.openinapp.co/Day-3), [Day-3-1](https://gdrive.openinapp.co/Day-3-1)|
-| June 20, 2026 | Saturday | | |
+| June 20, 2026 | Saturday | Day 4 - Tokens, Statements & APEX | [Day-4](https://gdrive.openinapp.co/Day-4) |
 | June 21, 2026 | Sunday | | |
 | June 22, 2026 | Monday | | |
 | June 23, 2026 | Tuesday | | |
