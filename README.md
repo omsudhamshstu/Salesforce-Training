@@ -1,6 +1,6 @@
 # Salesforce-Training
 - APEX Cheat Sheet: [Cheat sheet](https://gdrive.openinapp.co/APEXCheatSheet)
-- APEX Eev Notes: [Dev Notes](https://gdrive.openinapp.co/DevNotes)
+- APEX Dev Notes: [Dev Notes](https://gdrive.openinapp.co/DevNotes)
 - Salesforce Training Notes Database: [Training Notes DB](https://omsudhamshstu.notion.site/Salesforce-Training-38237263de118037936ce562fdae46a7?source=copy_link)
 ## Training Schedule
 
