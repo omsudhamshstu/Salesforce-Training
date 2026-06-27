@@ -16,15 +16,15 @@
 | June 24, 2026 | Wednesday | Day 7 - SOQL | [Day-7](https://gdrive.openinapp.co/Day-7) |
 | June 25, 2026 | Thursday | Day-8 - SOSL, DML & Exception Handling | [Day-8](https://gdrive.openinapp.co/Day-8)|
 | June 26, 2026 | Friday | ----------- | ----- |
-| June 27, 2026 | Saturday | | |
-| June 28, 2026 | Sunday | | |
+| June 27, 2026 | Saturday | Day 9 - Assertions, Interface, Schedule APEX| [Day-9](https://gdrive.openinapp.co/Day-9)|
+| June 28, 2026 | Sunday | ----------- | ----- |
 | June 29, 2026 | Monday | | |
 | June 30, 2026 | Tuesday | | |
 | July 1, 2026 | Wednesday | | |
 | July 2, 2026 | Thursday | | |
 | July 3, 2026 | Friday | | |
 | July 4, 2026 | Saturday | | |
-| July 5, 2026 | Sunday | | |
+| July 5, 2026 | Sunday | ----------- | ----- |
 | July 6, 2026 | Monday | | |
 | July 7, 2026 | Tuesday | | |
 | July 8, 2026 | Wednesday | | |
