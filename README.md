@@ -12,10 +12,10 @@
 | June 20, 2026 | Saturday | Day 4 - Tokens, Statements & APEX | [Day-4](https://gdrive.openinapp.co/Day-4) |
 | June 21, 2026 | Sunday | ----------- | ----- |
 | June 22, 2026 | Monday | Day 5 - Sample Interview Qns, OOP | [Day-5](https://gdrive.openinapp.co/Day-5) |
-| June 23, 2026 | Tuesday | Day 6 - Rules to write the APEX Program, Variables | [Day-6]()  |
-| June 24, 2026 | Wednesday | | |
-| June 25, 2026 | Thursday | | |
-| June 26, 2026 | Friday | | |
+| June 23, 2026 | Tuesday | Day 6 - Rules to write the APEX Program, Variables | [Day-6](https://gdrive.openinapp.co/Day-6)  |
+| June 24, 2026 | Wednesday | Day 7 - SOQL | [Day-7](https://gdrive.openinapp.co/Day-7) |
+| June 25, 2026 | Thursday | Day-8 - SOSL, DML & Exception Handling | [Day-8](https://gdrive.openinapp.co/Day-8)|
+| June 26, 2026 | Friday | ----------- | ----- |
 | June 27, 2026 | Saturday | | |
 | June 28, 2026 | Sunday | | |
 | June 29, 2026 | Monday | | |
