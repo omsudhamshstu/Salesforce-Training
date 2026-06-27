@@ -33,4 +33,5 @@
 
 ---
 
-**Note:** All training materials and links will be updated as the course progresses.
+- **Note:** All training materials and links will be updated as the course progresses.
+- **Star This Repository ⭐**
