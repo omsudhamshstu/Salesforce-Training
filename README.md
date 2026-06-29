@@ -2,6 +2,9 @@
 - APEX Cheat Sheet: [Cheat sheet](https://gdrive.openinapp.co/APEXCheatSheet)
 - APEX Dev Notes: [Dev Notes](https://gdrive.openinapp.co/DevNotes)
 - Salesforce Training Notes Database: [Training Notes DB](https://omsudhamshstu.notion.site/Salesforce-Training-38237263de118037936ce562fdae46a7?source=copy_link)
+- **Notes (PDF)**
+  - **Day(s) 1–10:** [Salesforce Notes]()
+  - Access the Notion Notes Database for live notes: [Live Notes](https://omsudhamshstu.notion.site/38237263de118094af75dd84cc659863?v=38237263de11809fa73e000c4b73e119&source=copy_link)
 ## Training Schedule
 
 | Date | Day | Topic | Notes |
