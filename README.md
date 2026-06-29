@@ -28,8 +28,6 @@
 | July 6, 2026 | Monday | | |
 | July 7, 2026 | Tuesday | | |
 | July 8, 2026 | Wednesday | | |
-| July 9, 2026 | Thursday | | |
-| July 10, 2026 | Friday | | |
 
 ---
 
