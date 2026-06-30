@@ -36,3 +36,4 @@
 
 - **Note:** All training materials and links will be updated as the course progresses.
 - **Star This Repository ⭐**
+- **Found any mistakes?** Check the Live Notion Database: [Live Notes](https://omsudhamshstu.notion.site/38237263de118094af75dd84cc659863?v=38237263de11809fa73e000c4b73e119&source=copy_link) or let us know at [ommsstudentnetwork@gmail.com](mailto:ommsstudentnetwork@gmail.com).
