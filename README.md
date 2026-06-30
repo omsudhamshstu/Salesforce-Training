@@ -5,6 +5,7 @@
 - **Notes (PDF)**
   - <mark>**Day(s) 1–10:** [Notes (1-10)](https://gdrive.openinapp.co/Day1-10)</mark>
   - Access the Notion Notes Database for live notes: [Live Notes](https://omsudhamshstu.notion.site/38237263de118094af75dd84cc659863?v=38237263de11809fa73e000c4b73e119&source=copy_link)
+  - In the Live Notes tab / In the DB Note tab click "▸" for Sub-Pages.
 
 ## Training Schedule
 
