@@ -21,7 +21,7 @@
 | June 26, 2026 | Friday | ----------- | ----- |
 | June 27, 2026 | Saturday | Day 9 - Assertions, Interface, Schedule APEX| [Day-9](https://gdrive.openinapp.co/Day-9)|
 | June 28, 2026 | Sunday | ----------- | ----- |
-| June 29, 2026 | Monday | | |
+| June 29, 2026 | Monday | Day 10 - Batch APEX, Triggers and Examples | [Day-10](https://gdrive.openinapp.co/Day-10) |
 | June 30, 2026 | Tuesday | | |
 | July 1, 2026 | Wednesday | | |
 | July 2, 2026 | Thursday | | |
