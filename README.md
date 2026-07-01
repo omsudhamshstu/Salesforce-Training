@@ -25,7 +25,7 @@
 | June 28, 2026 | Sunday | ----------- | ----- | ----- |
 | June 29, 2026 | Monday | Day 10 - Batch APEX, Triggers and Examples | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-10-38e37263de11807c8cd5e29ea317c9e0?v=38237263de11809fa73e000c4b73e119&source=copy_link) | [Day-10](https://gdrive.openinapp.co/Day-10) |
 | June 30, 2026 | Tuesday | Day 11 - Trigger Examples and **3. Integration** | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-11-38f37263de1180e9ba53f8e411722d9b?source=copy_link) | [Day-11](https://gdrive.openinapp.co/Day-11) |
-| July 1, 2026 | Wednesday | | | |
+| July 1, 2026 | Wednesday | | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-12-39037263de11808b9519c2d4371fac8d?source=copy_link)| |
 | July 2, 2026 | Thursday | | | |
 | July 3, 2026 | Friday | | | |
 | July 4, 2026 | Saturday | | | |
