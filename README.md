@@ -1,4 +1,5 @@
 # Salesforce-Training
+## PD-1 Exam Guide: [Guide](https://trailhead.salesforce.com/content/learn/modules/platform-developer-i-certification-prep-fundamentals-and-database-modeling/pd1-1-get-started)
 - APEX Cheat Sheet: [Cheat sheet](https://gdrive.openinapp.co/APEXCheatSheet)
 - APEX Dev Notes: [Dev Notes](https://gdrive.openinapp.co/DevNotes)
 - Salesforce Training Notes Database: [Training Notes DB](https://omsudhamshstu.notion.site/Salesforce-Training-38237263de118037936ce562fdae46a7?source=copy_link)
