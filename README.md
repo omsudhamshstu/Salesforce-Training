@@ -31,11 +31,10 @@
 | June 30, 2026 | Tuesday | Day 11 - Trigger Examples and **3. Integration** | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-11-38f37263de1180e9ba53f8e411722d9b?source=copy_link) | [Day-11](https://gdrive.openinapp.co/Day-11) |
 | July 1, 2026 | Wednesday | Day 12 - SOAP, REST, JSON and **4. System Administrator** | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-12-39037263de11808b9519c2d4371fac8d?source=copy_link)| [Day-12](https://gdrive.openinapp.co/Day-12) |
 | July 2, 2026 | Thursday | Day 13 - Sys. Admin, Data Management tools | [Live Notes](https://omsudhamshstu.notion.site/Day-13-39137263de11804bab51e2101c8f21a2?source=copy_link) | [Day-13]() |
-| July 3, 2026 | Friday | | | |
-| July 4, 2026 | Saturday | | | |
+| July 3-4, 2026 | Friday-Saturday | Introduction to Agentforce | ----- | ----- |
 | July 5, 2026 | Sunday | ----------- | ----- | ----- |
 | July 6, 2026 | Monday | Day 14 - Fields, Classes and Approvals | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-16-39637263de11802f81f7d4fdf97aa3f5?source=copy_link) | [Day-14](https://gdrive.openinapp.co/Day-14) |
-| July 7, 2026 | Tuesday | | | |
+| July 7, 2026 | Tuesday |Day 15 - Flows | [🔴 Live Notes](https://app.notion.com/p/omsudhamshstu/Day-17-39637263de1180a8b93ec996924d6426?source=copy_link) | |
 | July 8, 2026 | Wednesday | | | |
 
 ---
