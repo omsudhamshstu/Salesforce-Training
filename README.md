@@ -34,10 +34,10 @@
 | July 3-4, 2026 | Friday-Saturday | Introduction to Agentforce | ----- | ----- |
 | July 5, 2026 | Sunday | ----------- | ----- | ----- |
 | July 6, 2026 | Monday | Day 14 - Fields, Classes and Approvals | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-16-39637263de11802f81f7d4fdf97aa3f5?source=copy_link) | [Day-14](https://gdrive.openinapp.co/Day-14) |
-| July 7, 2026 | Tuesday |Day 15 - Flows | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-17-39637263de1180a8b93ec996924d6426?source=copy_link) | |
-| July 8, 2026 | Wednesday | Day 16 - CRM | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-18-39737263de1180fab674e7a071c237a0?source=copy_link) | |
-| July 9, 2026 | Thursday | Day 17 - CRM (SObjects) | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-18-16-39737263de1180fab674e7a071c237a0?source=copy_link) | |
-| July 10, 2026 | Friday | Day 18 -  | [Live Notes]() | |
+| July 7, 2026 | Tuesday |Day 15 - Flows | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-17-39637263de1180a8b93ec996924d6426?source=copy_link) | [Day-15](https://gdrive.openinapp.co/8qfls) |
+| July 8, 2026 | Wednesday | Day 16 - CRM | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-18-39737263de1180fab674e7a071c237a0?source=copy_link) |[Day-16](https://gdrive.openinapp.co/c2p8i) |
+| July 9, 2026 | Thursday | Day 17 - CRM (SObjects) | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-18-16-39737263de1180fab674e7a071c237a0?source=copy_link) | [Day-17](https://gdrive.openinapp.co/c2p8i)|
+| July 10, 2026 | Friday | Day 18 - Wrap Up (CRM) | [Live Notes](https://app.notion.com/p/omsudhamshstu/Day-18-16-39737263de1180fab674e7a071c237a0?source=copy_link) | [Day-15](https://gdrive.openinapp.co/c2p8i) |
 
 ---
 
